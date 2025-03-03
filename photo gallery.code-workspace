@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Contact"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "photo gallery"
+	}
+}

@@ -182,7 +182,7 @@ button:hover {
 }
 
 /* Cool Animations */
-/* Fade in animation for cake items */
+/* Fade in animation for cake items */ 
 @keyframes fadeIn {
     from {
         opacity: 0;
